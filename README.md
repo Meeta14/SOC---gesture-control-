@@ -20,7 +20,7 @@ I have trained model using transfer learning using Resnet50 model to distinguish
 The model manages to achieve 95% (191/200) accuracy on test images.
 
 The trained model is used to identify the gesture from input given from live vedio capturing. 
-vidgesture.py can be run on terminal via simply loading weights of the model.
+vidgesture.py can be run on terminal via simply loading weights of the model from [here](https://bighome.iitb.ac.in/index.php/s/2e7yw9mb7ktwfrw).
 ![alt text](https://github.com/Meeta14/SOC---gesture-control-/blob/master/soc_task2/prediction_from_an_vid(1).png)
 
 
